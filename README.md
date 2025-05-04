@@ -2,7 +2,6 @@
   > [!NOTE PENTING!]
   > Semua dapat berubah tergantung dari acara apa, dimana, siapa pengisi acara, tema, dan kemampuan himpunan dan divisi pelaksana pada saat itu.
   > versi berkas: 1.2
-> 
 > ## 📑 Daftar Isi
 1. [Administrasi & Perizinan](#administrasi--perizinan)
 2. [Tempat & Fasilitas](#tempat--fasilitas)
