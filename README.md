@@ -12,7 +12,7 @@
 ---
 ## 📌 Administrasi & Perizinan
 - [ ] **Proposal Pengajuan acara** – Sekretaris  
-  - Tentukan panitia, utamakan dari divisi itu sendiri. Jika kurang, cari orang yang bisa diandalkan (bukan karena teman/sahabat).  
+  - Tentukan panitia, utamakan dari divisi itu sendiri. Jika kurang, cari orang yang bisa diandalkan.  
 - [ ] **Konsultasi dengan BPH (Kadiv & Wakadiv)** – Minimal **25 hari sebelum acara**  
 - [ ] **Konsultasi dengan Pengisi Acara** – Atur tanggal temu / meeting.
   - Konsultasi = bukan sekadar tanya jawab, tapi juga bahas rundown, posisi pengisi, materi, dll.  
