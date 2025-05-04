@@ -11,8 +11,8 @@
 ## 📌 Administrasi & Perizinan
 - [ ] **Proposal Pengajuan acara** – Sekretaris  
   - Tentukan panitia, utamakan dari divisi itu sendiri. Jika kurang, cari orang yang bisa diandalkan (bukan karena teman/sahabat).  
-- [ ] **Konsultasi dengan BPH (Kadiv & Wakadiv)** – Minimal **35 hari sebelum acara**  
-- [ ] **Konsultasi dengan Pengisi Acara** – Atur tanggal temu, misalnya 27 Jan (Senin)  
+- [ ] **Konsultasi dengan BPH (Kadiv & Wakadiv)** – Minimal **25 hari sebelum acara**  
+- [ ] **Konsultasi dengan Pengisi Acara** – Atur tanggal temu / meeting.
   - Konsultasi = bukan sekadar tanya jawab, tapi juga bahas rundown, posisi pengisi, materi, dll.  
 - [ ] **Surat Permintaan Konsumsi** – Sekretaris Acara  
   - Bisa pakai dana himpunan, **tapi sangat tidak dianjurkan**
@@ -34,12 +34,12 @@
 ## 📢 Publikasi & Pendaftaran
 - [ ] **Google Form Pendaftaran**
   - Data: Nama lengkap (sertifikat), Email (pengiriman), No. WA (komunikasi)
-- [ ] **Penyebaran Poster** – Humas  
+- [ ] **Penyebaran Poster** 
 - [ ] **Grup WhatsApp Pendaftar**
-- [ ] **Penyerahan Google Form ke Sekretaris** → untuk kebutuhan administrasi peserta acara  
+- [ ] **Penyerahan Google Form ke pihak bersangkutan (sekretaris acara, absensi dan lainnya).** → untuk kebutuhan administrasi peserta acara  
 - [ ] **Follow-up peserta tiap 5 hari**
 - [ ] **Open Pendaftaran** (tentative setelah semua siap)  
-- [ ] **Max 40 peserta**  
+- [ ] **Max ? peserta**  
 ## 🎤 Acara & Rundown
 - [ ] **MC**
 - [ ] **Rundown Acara** – Disiapkan oleh PSDM  
